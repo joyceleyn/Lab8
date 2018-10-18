@@ -1,3 +1,4 @@
+#this code calcuates growing degree days
 growingDegreesTimesTen <- function(x){
   a <- x-100L
   b <- a < 0L
